@@ -1,0 +1,26 @@
+Product: Maggi Chicken Noodles
+
+Category: Instant Food
+
+Average Price:
+Rs. 160
+
+Stores:
+Keells
+Arpico
+Cargills
+Glomark
+
+Description:
+Quick and tasty instant noodles with chicken flavor.
+
+Alternatives:
+Prima Noodles
+Kottu Mee
+Top Ramen
+
+Budget Rating:
+Affordable
+
+Keywords:
+noodles instant food quick meal chicken
