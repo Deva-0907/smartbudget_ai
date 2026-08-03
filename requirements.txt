@@ -1,0 +1,41 @@
+# ==========================
+# SmartShop AI Requirements
+# ==========================
+
+# Streamlit
+streamlit==1.48.1
+
+# Environment Variables
+python-dotenv==1.1.1
+
+# LLM Clients
+openai==1.99.9
+groq==0.31.0
+
+# RAG
+chromadb==1.0.20
+sentence-transformers==5.1.0
+
+# Machine Learning
+torch>=2.7.0
+transformers>=4.55.0
+
+# Data Processing
+numpy==2.3.2
+pandas==2.3.1
+
+# Web Scraping
+beautifulsoup4==4.13.4
+requests==2.32.4
+lxml==6.0.0
+selenium==4.35.0
+webdriver-manager==4.0.2
+
+# Utilities
+tqdm==4.67.1
+
+# Visualization
+plotly==6.3.0
+
+# PDF Export
+reportlab==4.4.3
